@@ -1,0 +1,3 @@
+- ⚡ Hey, I'm ilyasdevelop
+- 🔧 Into electronics and embedded systems
+- 🧩 Learning by building things
