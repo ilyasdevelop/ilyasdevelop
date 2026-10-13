@@ -30,7 +30,7 @@ J'étais responsable de deux parties :
 
 ### 🛠️ En ce moment
 
-Un module de surveillance pour un drone de transport d'organe (température et chocs, alerte par réseau mobile) : cahier des charges, choix des composants et schéma faits, la carte n'est pas encore fabriquée.
+Un module de surveillance de colis médical pour drone (température et chocs, alerte par réseau mobile) : cahier des charges, choix des composants et schéma faits, la carte n'est pas encore fabriquée.
 
 ### 🧰 Outils
 
